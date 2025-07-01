@@ -150,7 +150,7 @@ Predicted Label
 | Accuracy  | 0.9869  |
 | Precision | 0.9849  |
 | Recall    | 0.9855  |
-
+| F1-Score  | 0.9802  |
 **🛠 Fine-tuning**
 
 The ResNet-18 model was loaded with pretrained ImageNet weights, and only the final fully connected (FC) layer was replaced and fine-tuned for binary classification (male, female).
