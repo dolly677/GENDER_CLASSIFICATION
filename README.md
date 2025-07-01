@@ -29,33 +29,31 @@ Train a model to predict gender from faces that generalizes well to non-ideal im
 
 - **PROJECT STRUCTURE**
 ```
-Gender_classification/  
-│  
-├── .venv/                     # Python virtual environment (hidden folder)  
-│  
-├── best_model/  
-│   └── gender_classification_transfer_learning_with_ResNet18.pth  # Trained PyTorch model  
-│  
-├── Comsys_Hackathon5/         # Dataset directory  
-│   └── Task_A/  
-│       ├── train/             # Training images  
-│       └── val/               # Validation images  
-│  
-├── Notebook/  
-│   └── gender_classification.ipynb  # Jupyter Notebook for experimentation  
-│  
-├── previous_used_models/      # Legacy code from prior attempts  
-│   ├── app.py                 # Flask/Django app (if applicable)  
-│   ├── config.py              # Configuration settings  
-│   ├── data_loader.py         # Data loading utilities  
-│   ├── model.py               # Model architecture  
-│   ├── requirement.txt        # Dependencies (typo: should be `requirements.txt`)  
-│   ├── train.py               # Training script  
-│   └── utils.py               # Helper functions  
-│  
-├── External Libraries/        # Manually added libraries (if any)  
-│  
-└── Scratches and Consoles/    # IDE-generated temporary files (checked in your tree)  
+Gender_classification 
+│
+├── .venv/ # Virtual environment directory
+│
+├── best_model/ # Directory containing the best trained model
+│ └── gender_classification_transfer_learning_with_ResNet18.pth
+│
+├── Comsys_Hackathon5/ # Main project directory
+│ └── Task_A/ # Task specific directory
+│      ├── train/ # Training data
+│      └── val/ # Validation data
+│
+├── previous_used_models/ # Directory containing previously used models
+│      ├── mobilenet_gender_final_v2.keras
+│      ├── model.pth
+│      └── xception_v5_03_0.939.h5
+│
+├── app.py # Main application file
+│
+├── config.py # Configuration settings
+├── data_loader.py # Data loading utilities
+├── model.py # Model architecture definitions
+├── requirement.txt # Project dependencies
+├── train.py # Training script
+└── utils.py # Utility functions
 ```
 ### 🧠 MODEL DESCRIPTION : ResNet-18 for Gender Classification
 
