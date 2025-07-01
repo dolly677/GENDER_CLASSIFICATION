@@ -210,7 +210,7 @@ git clone https://github.com/dolly677/COMSYS-Hackathon-5-2025.git
 ```
 **OR**
 
-Download the ZIP file from the 🔹 [" Google Drive Link "](https://drive.google.com/drive/folders/19V2QRTdD7FVyg33cpXNSTymiDjdjsfG3?usp=sharing), then follow these steps:
+Download the ZIP file from the 🔹 [" Google Drive Link "](https://drive.google.com/drive/folders/19V2QRTdD7FVyg33cpXNSTymiDjdjsfG3?usp=sharing) (**RECOMMENDED**)[with dataset], then follow these steps:
 
   Step-1: Extract the ZIP file to your desired location.
 
