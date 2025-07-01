@@ -206,7 +206,6 @@ Below are example outputs from the trained model:
 **1. Clone the Repository**
 ```
 git clone https://github.com/dolly677/COMSYS-Hackathon-5-2025.git
-cd Gender_classification
 ```
 **2. Set Up the Environment**
 
