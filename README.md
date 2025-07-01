@@ -211,11 +211,11 @@ git clone https://github.com/dolly677/COMSYS-Hackathon-5-2025.git
 
 Download the ZIP file from the 🔹 [" Google Drive Link "](https://drive.google.com/drive/folders/19V2QRTdD7FVyg33cpXNSTymiDjdjsfG3?usp=sharing), then follow these steps:
 
-  Step-1.Extract the ZIP file to your desired location.
+  Step-1: Extract the ZIP file to your desired location.
 
-  Step-2.Navigate to the extracted folder.
+  Step-2: Navigate to the extracted folder.
 
-  Step-3.Locate and open the gender classification directory to access the project files.
+  Step-3: Locate and open the gender classification directory to access the project files.
   
 
 **2. Set Up the Environment**
