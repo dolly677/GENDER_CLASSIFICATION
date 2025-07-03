@@ -279,3 +279,7 @@ This will launch a web UI for uploading images and displaying gender prediction 
 
 Developed by [AI-dentifiers](https://github.com/dolly677/COMSYS-Hackathon-5-2025.git) and contributor.  
 For academic/educational use only.
+
+## Contact:
+For inquiries about permitted uses or collaborations, please contact: [dollysharma12.ab@gmail.com]
+
