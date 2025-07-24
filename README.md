@@ -1,5 +1,4 @@
-# COMSYS-Hackathon-5,2025
----
+
 ##  Challenge Overview 
 
 ### TASK A: GENDER CLASSIFICATION👩‍🦰🧓
